@@ -3,5 +3,5 @@
 
 http://dx.doi.org/10.7551/978-0-262-33027-5-ch081
 
-
+In this paper, we show how autonomous microscopic CMOS particles, called lablets, here at the scale of 100μm, are equipped with an electroosmotic drive, and calculate that this can propel them sufficiently to overcome the strong viscous drag at this length scale, depending on the ionic strength and pH of the solution in which they are immersed. We then use this thrust and the currently fabricated lablet design to show in simulation how programmable movement of lablets can be obtained. The lablets are equipped with chemical sensors and simple programmable functionality that we show can form a substrate for chemotactic behaviour and autonomous docking to a target surface (such as a second lablet). We calculate the concentration field induced by an electrically active lablet and show that other lablets can dock by chemotaxis in this field. Lablets can self-assemble to form compartments, and perform chemical operations, and hence provide a potential electronic- chemical substrate for building artificial cells. The investigation of autonomous motion capabilities is an important basic functionality for particles of this size, where passive Brownian motion is already slow, when motion has been implicated as a fundamental property of early life.
 
